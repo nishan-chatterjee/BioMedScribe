@@ -1,4 +1,3 @@
-```markdown
 # BioMedScribe
 
 Welcome to BioMedScribe, a repository containing various projects centered around the statistical analysis of medical data and multiomics modeling. This README provides an overview of the contents and purpose of each directory within the repository.
